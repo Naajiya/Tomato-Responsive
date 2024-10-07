@@ -1,0 +1,225 @@
+.containeer{
+    /* height: 100%;
+    width: 100%; */
+    position: relative;
+    background-image: url('bg3.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 450px; /* Ensure it covers the entire viewport height */
+    width: 100%;
+}
+
+.first-bg-s{
+    height: 500px;
+    width: 100%;
+    position: absolute  ;
+}
+
+
+
+
+/* .header{
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    /* background-color: violet; */
+    /* padding: 1.3rem 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 1;
+} */ */
+
+.logo{
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    font-weight: 300px;
+}
+
+.li{
+    padding-right: 30px;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+
+
+.navbar a{
+    text-decoration: none;
+    font-size: 1rem;
+    color: white;
+    font-weight: 200;
+    margin-left: 50px;
+    padding-left: 20px;
+    /* justify-content: space-between; */
+}
+
+.zomato-head{
+    margin-top: 100px;
+}
+
+a{
+    text-decoration: none !important;
+    /* color: red !important; */
+}
+
+h1{
+    position: relative;
+    text-align: center;
+    font-style: italic;
+    color: white;
+    font-size: 90px;
+    font-weight: 500;
+}   
+
+.elements{
+    width: 700px;
+    align-items: center;
+    margin-left: 250px;
+    margin-top: 100px;
+}
+
+h1{
+    font-size: 2rem;
+    color: white
+}
+
+.cqard-body{
+    height: auto;
+    width: 500px;
+    align-items: center;
+    justify-content: center;
+}
+
+.img-fluid{
+    height: 50%;
+    width: 100%;
+    border-radius: 20px;
+    
+}
+
+
+
+.card-second {
+    margin-right: 10px;
+    width: 32rem !important;
+    max-width: none; /* Ensures no Bootstrap class is restricting width */
+    max-height: none;
+  }
+
+
+.hh{
+    top: 100px;
+}
+
+.fixed-margin-top {
+    /* margin-top: -1rem !important; */
+    
+}
+
+
+.overley-style{
+    /* top: 1000px; */
+    margin-top: 250px;
+    border: none;
+}
+
+.img-fix{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+
+
+
+.custom-card{
+    height: 50px;
+    width: 320px;
+    background-color: black;
+    box-sizing: border-box;
+    
+}
+
+.cus-card{
+    width: 15rem !important;
+}
+
+.sp{
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+.custom-card {
+    height: 150px;
+    width: 150px;
+    background-color: black;
+    margin-right: 15px;
+}
+.row .col:last-child .custom-card {
+    margin-right: 0;
+}
+
+
+.foot-zoma{
+    
+}
+
+.custm-sty{
+    background-color: rgb(255, 255, 255);
+    margin-top: 10%;
+    padding-top: 10%;
+    padding: -5%;
+}
+
+.zomato-image{
+    height: 90%;
+    width: 40%;
+    margin-left: 140px;
+}
+
+.zoma-dwnld{
+    text-align: left;
+}
+
+/* .play-store{
+ 
+    display: flex;
+    color: white;
+    height: 10%;
+    width: 35%;
+    background-color: black;
+    justify-content: end;
+    margin-left: -2%;
+    padding: 1%;
+} */
+
+/* .plystr{
+    margin-top: 100%;
+    margin-left: 10%;
+  
+} */
+
+.rowwwws{
+    /* justify-content: flex-start; */
+    text-align: left;
+}
+
+.icn-st{
+    /* text-align: left; */
+    padding-bottom: -70%;
+    margin-right: 10%;
+}
+
+
+.downld-app{
+    display: flex;
+}
+
+
+.app-dwnld-marg{
+    margin-top: 10%;
+}
